@@ -19,7 +19,8 @@
     <link rel="shortcut icon" href="{{ asset('demo1/assets/media/logos/favicon.ico') }}" />
     <!--begin::Fonts(mandatory for all pages)-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
-    <!--end::Fonts-->
+
+    <!--end::HelloFonts-->
     <!--begin::Vendor Stylesheets(used for this page only)-->
     <link href="{{ asset('demo1/assets/plugins/custom/fullcalendar/fullcalendar.bundle.css') }}" rel="stylesheet"
         type="text/css" />
